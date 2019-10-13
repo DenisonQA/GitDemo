@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2019-07-31T10:27:15Z" finished-at="2019-07-31T10:27:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2019-07-31T10:27:15Z" finished-at="2019-07-31T10:27:15Z">
+      <class name="denisqa.app.APItest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:denisqa.app.APItest@4cc0edeb]" name="deleteTwitter" duration-ms="11" started-at="2019-07-31T10:27:15Z" finished-at="2019-07-31T10:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:denisqa.app.APItest@4cc0edeb]" name="postJira" duration-ms="2" started-at="2019-07-31T10:27:15Z" finished-at="2019-07-31T10:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- denisqa.app.APItest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
